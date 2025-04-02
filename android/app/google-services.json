@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634050604506",
+    "project_id": "inv-manage-app",
+    "storage_bucket": "inv-manage-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634050604506:android:254b2cc139abfca26424e3",
+        "android_client_info": {
+          "package_name": "com.example.product_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBqZjZSTQXgAIl12t6c4aB439zKKT5ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
